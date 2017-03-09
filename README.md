@@ -6,6 +6,8 @@ Things you may want to cover:
 
 * System dependencies
 
+* REST is just a buzzword
+
 To start:
 
 $ bundle install --without production
